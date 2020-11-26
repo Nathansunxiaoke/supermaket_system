@@ -1,0 +1,19 @@
+{
+    "user": [
+        {
+            "name": "关国源",
+            "number": "1",
+            "password": "789456"
+        },
+        {
+            "name": "孙永兵",
+            "number": "2",
+            "password": "123456"
+        },
+        {
+            "name": "李元芳",
+            "number": "1000",
+            "password": "4564654"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "goods": [
+        {
+            "kind": "日用",
+            "name": "扫帚",
+            "purchasingPrice": "20",
+            "quentityStock": "7",
+            "retailPrice": "50"
+        },
+        {
+            "kind": "甜点",
+            "name": "巧克力",
+            "purchasingPrice": "50",
+            "quentityStock": "90",
+            "retailPrice": "99"
+        },
+        {
+            "kind": "甜点",
+            "name": "蛋糕",
+            "purchasingPrice": "250",
+            "quentityStock": "18",
+            "retailPrice": "520"
+        },
+        {
+            "kind": "水产",
+            "name": "三文鱼",
+            "purchasingPrice": "125",
+            "quentityStock": "16",
+            "retailPrice": "220"
+        },
+        {
+            "kind": "水果",
+            "name": "龙眼",
+            "purchasingPrice": "12",
+            "quentityStock": "97",
+            "retailPrice": "20"
+        },
+        {
+            "kind": "幼女",
+            "name": "女人",
+            "purchasingPrice": "2",
+            "quentityStock": "-8",
+            "retailPrice": "1"
+        }
+    ]
+}
